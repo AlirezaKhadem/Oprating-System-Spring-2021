@@ -1,0 +1,270 @@
+Script started on 2021-04-25 22:12:03+04:30 [TERM="xterm" TTY="/dev/pty0" COLUMNS="210" LINES="59"]
+]0;/cygdrive/d/Education/TRM 992/OS/Project/p3
+[32masus@DESKTOP-CL0DLB1 [33m/cygdrive/d/Education/TRM 992/OS/Project/p3[0m
+$ make
+kpl Main -unsafe
+asm Main.s
+lddd System.o List.o Thread.o Switch.o Synch.o Main.o Runtime.o -o os
+]0;/cygdrive/d/Education/TRM 992/OS/Project/p3
+[32masus@DESKTOP-CL0DLB1 [33m/cygdrive/d/Education/TRM 992/OS/Project/p3[0m
+$ blitz -g os
+Beginning execution...
+====================  KPL PROGRAM STARTING  ====================
+OS Class: project 3	 S.Alireza Khadem 97100398
+Initializing Thread Scheduler...
+group-A request 4
+-------------------------------------Number of dice now avail = 8
+group-A proceed 4
+-------------------------------------Number of dice now avail = 4
+group-B request 4
+-------------------------------------Number of dice now avail = 4
+group-B proceed 4
+-------------------------------------Number of dice now avail = 0
+group_D request 5
+-------------------------------------Number of dice now avail = 0
+group-A releases and adds back 4
+-------------------------------------Number of dice now avail = 4
+group-B releases and adds back 4
+-------------------------------------Number of dice now avail = 8
+group_E request 2
+-------------------------------------Number of dice now avail = 8
+group_F request 5
+-------------------------------------Number of dice now avail = 8
+group_G request 1
+-------------------------------------Number of dice now avail = 8
+group_D proceed 5
+-------------------------------------Number of dice now avail = 3
+group-A request 4
+-------------------------------------Number of dice now avail = 3
+group_C request 5
+-------------------------------------Number of dice now avail = 3
+group_E proceed 2
+-------------------------------------Number of dice now avail = 1
+group_D releases and adds back 5
+-------------------------------------Number of dice now avail = 6
+group-B request 4
+-------------------------------------Number of dice now avail = 6
+group_C request 1
+-------------------------------------Number of dice now avail = 6
+group_F proceed 5
+-------------------------------------Number of dice now avail = 1
+group_E releases and adds back 2
+-------------------------------------Number of dice now avail = 3
+group_D request 5
+-------------------------------------Number of dice now avail = 3
+group_G proceed 1
+-------------------------------------Number of dice now avail = 2
+group_F releases and adds back 5
+-------------------------------------Number of dice now avail = 7
+group_E request 2
+-------------------------------------Number of dice now avail = 7
+group-A proceed 4
+-------------------------------------Number of dice now avail = 3
+group_G releases and adds back 1
+-------------------------------------Number of dice now avail = 4
+group_F request 5
+-------------------------------------Number of dice now avail = 4
+group-A releases and adds back 4
+-------------------------------------Number of dice now avail = 8
+group_G request 1
+-------------------------------------Number of dice now avail = 8
+group-A request 4
+-------------------------------------Number of dice now avail = 8
+group_C proceed 5
+-------------------------------------Number of dice now avail = 3
+group_C releases and adds back 5
+-------------------------------------Number of dice now avail = 8
+group-B proceed 4
+-------------------------------------Number of dice now avail = 4
+group_C request 5
+-------------------------------------Number of dice now avail = 4
+group_C proceed 1
+-------------------------------------Number of dice now avail = 3
+group-B releases and adds back 4
+-------------------------------------Number of dice now avail = 7
+group_D proceed 5
+-------------------------------------Number of dice now avail = 2
+group_C releases and adds back 1
+-------------------------------------Number of dice now avail = 3
+group_E proceed 2
+-------------------------------------Number of dice now avail = 1
+group_D releases and adds back 5
+-------------------------------------Number of dice now avail = 6
+group-B request 4
+-------------------------------------Number of dice now avail = 6
+group_F proceed 5
+-------------------------------------Number of dice now avail = 1
+group_E releases and adds back 2
+-------------------------------------Number of dice now avail = 3
+group_C request 1
+-------------------------------------Number of dice now avail = 3
+group_D request 5
+-------------------------------------Number of dice now avail = 3
+group_G proceed 1
+-------------------------------------Number of dice now avail = 2
+group_F releases and adds back 5
+-------------------------------------Number of dice now avail = 7
+group_E request 2
+-------------------------------------Number of dice now avail = 7
+group-A proceed 4
+-------------------------------------Number of dice now avail = 3
+group_G releases and adds back 1
+-------------------------------------Number of dice now avail = 4
+group_F request 5
+-------------------------------------Number of dice now avail = 4
+group-A releases and adds back 4
+-------------------------------------Number of dice now avail = 8
+group_G request 1
+-------------------------------------Number of dice now avail = 8
+group-A request 4
+-------------------------------------Number of dice now avail = 8
+group_C proceed 5
+-------------------------------------Number of dice now avail = 3
+group_C releases and adds back 5
+-------------------------------------Number of dice now avail = 8
+group-B proceed 4
+-------------------------------------Number of dice now avail = 4
+group_C request 5
+-------------------------------------Number of dice now avail = 4
+group_C proceed 1
+-------------------------------------Number of dice now avail = 3
+group-B releases and adds back 4
+-------------------------------------Number of dice now avail = 7
+group_D proceed 5
+-------------------------------------Number of dice now avail = 2
+group-B request 4
+-------------------------------------Number of dice now avail = 2
+group_E proceed 2
+-------------------------------------Number of dice now avail = 0
+group_D releases and adds back 5
+-------------------------------------Number of dice now avail = 5
+group_C releases and adds back 1
+-------------------------------------Number of dice now avail = 6
+group_F proceed 5
+-------------------------------------Number of dice now avail = 1
+group_E releases and adds back 2
+-------------------------------------Number of dice now avail = 3
+group_D request 5
+-------------------------------------Number of dice now avail = 3
+group_C request 1
+-------------------------------------Number of dice now avail = 3
+group_G proceed 1
+-------------------------------------Number of dice now avail = 2
+group_F releases and adds back 5
+-------------------------------------Number of dice now avail = 7
+group_E request 2
+-------------------------------------Number of dice now avail = 7
+group-A proceed 4
+-------------------------------------Number of dice now avail = 3
+group_F request 5
+-------------------------------------Number of dice now avail = 3
+group_G releases and adds back 1
+-------------------------------------Number of dice now avail = 4
+group-A releases and adds back 4
+-------------------------------------Number of dice now avail = 8
+group_G request 1
+-------------------------------------Number of dice now avail = 8
+group-A request 4
+-------------------------------------Number of dice now avail = 8
+group_C proceed 5
+-------------------------------------Number of dice now avail = 3
+group_C releases and adds back 5
+-------------------------------------Number of dice now avail = 8
+group_C request 5
+-------------------------------------Number of dice now avail = 8
+group-B proceed 4
+-------------------------------------Number of dice now avail = 4
+group-B releases and adds back 4
+-------------------------------------Number of dice now avail = 8
+group_D proceed 5
+-------------------------------------Number of dice now avail = 3
+group-B request 4
+-------------------------------------Number of dice now avail = 3
+group_C proceed 1
+-------------------------------------Number of dice now avail = 2
+group_D releases and adds back 5
+-------------------------------------Number of dice now avail = 7
+group_E proceed 2
+-------------------------------------Number of dice now avail = 5
+group_D request 5
+-------------------------------------Number of dice now avail = 5
+group_F proceed 5
+-------------------------------------Number of dice now avail = 0
+group_E releases and adds back 2
+-------------------------------------Number of dice now avail = 2
+group_G proceed 1
+-------------------------------------Number of dice now avail = 1
+group_F releases and adds back 5
+-------------------------------------Number of dice now avail = 6
+group_E request 2
+-------------------------------------Number of dice now avail = 6
+group_C releases and adds back 1
+-------------------------------------Number of dice now avail = 7
+group-A proceed 4
+-------------------------------------Number of dice now avail = 3
+group_G releases and adds back 1
+-------------------------------------Number of dice now avail = 4
+group_F request 5
+-------------------------------------Number of dice now avail = 4
+group_C request 1
+-------------------------------------Number of dice now avail = 4
+group-A releases and adds back 4
+-------------------------------------Number of dice now avail = 8
+group_G request 1
+-------------------------------------Number of dice now avail = 8
+group_C proceed 5
+-------------------------------------Number of dice now avail = 3
+group_C releases and adds back 5
+-------------------------------------Number of dice now avail = 8
+group-B proceed 4
+-------------------------------------Number of dice now avail = 4
+group_C request 5
+-------------------------------------Number of dice now avail = 4
+group-B releases and adds back 4
+-------------------------------------Number of dice now avail = 8
+group_D proceed 5
+-------------------------------------Number of dice now avail = 3
+group_E proceed 2
+-------------------------------------Number of dice now avail = 1
+group_D releases and adds back 5
+-------------------------------------Number of dice now avail = 6
+group_F proceed 5
+-------------------------------------Number of dice now avail = 1
+group_E releases and adds back 2
+-------------------------------------Number of dice now avail = 3
+group_C proceed 1
+-------------------------------------Number of dice now avail = 2
+group_F releases and adds back 5
+-------------------------------------Number of dice now avail = 7
+group_G proceed 1
+-------------------------------------Number of dice now avail = 6
+group_C releases and adds back 1
+-------------------------------------Number of dice now avail = 7
+group_C proceed 5
+-------------------------------------Number of dice now avail = 2
+group_G releases and adds back 1
+-------------------------------------Number of dice now avail = 3
+group_C request 1
+-------------------------------------Number of dice now avail = 3
+group_C proceed 1
+-------------------------------------Number of dice now avail = 2
+group_C releases and adds back 5
+-------------------------------------Number of dice now avail = 7
+group_C releases and adds back 1
+-------------------------------------Number of dice now avail = 8
+
+*****  A 'wait' instruction was executed and no more interrupts are scheduled... halting emulation!  *****
+
+Done!  The next instruction to execute will be:
+000EC8: 09000000       ret     
+Number of Disk Reads    = 0
+Number of Disk Writes   = 0
+Instructions Executed   = 531473
+Time Spent Sleeping     = 0
+    Total Elapsed Time  = 531473
+]0;/cygdrive/d/Education/TRM 992/OS/Project/p3
+[32masus@DESKTOP-CL0DLB1 [33m/cygdrive/d/Education/TRM 992/OS/Project/p3[0m
+$ exit
+exit
+
+Script done on 2021-04-25 22:12:36+04:30 [COMMAND_EXIT_CODE="0"]

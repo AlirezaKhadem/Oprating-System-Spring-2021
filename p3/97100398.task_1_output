@@ -1,0 +1,149 @@
+Script started on 2021-04-25 22:11:31+04:30 [TERM="xterm" TTY="/dev/pty0" COLUMNS="210" LINES="59"]
+]0;/cygdrive/d/Education/TRM 992/OS/Project/p3
+[32masus@DESKTOP-CL0DLB1 [33m/cygdrive/d/Education/TRM 992/OS/Project/p3[0m
+$ blitz -g os
+Beginning execution...
+====================  KPL PROGRAM STARTING  ====================
+OS Class: project 3	 S.Alireza Khadem 97100398
+Initializing Thread Scheduler...
+
+Barber shop Example...
+1   2   3   4   5   6   7   8   9   10  11  12  13  14  15  16  17  18  19  20  21  22  23  24  25  26  27  28  29  30  31  32  33  34  35  36  37  38  39  40  
+E   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+S   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+B   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+B   E   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+B   S   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+B   S   E   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+B   S   S   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   S   S   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   B   S   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   B   S   E   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   B   S   S   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   B   S   S   E   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   B   S   S   S   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   S   S   S   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   S   S   S   E   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   S   S   S   S   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   B   S   S   S   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   B   S   S   S   E   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   B   S   S   S   S   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   B   S   S   S   S   E   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   B   S   S   S   S   S   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   F   S   S   S   S   S   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   F   B   S   S   S   S   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   F   B   S   S   S   S   E   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   F   B   S   S   S   S   S   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   F   B   S   S   S   S   S   E   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   F   B   S   S   S   S   S   L   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   F   F   S   S   S   S   S   L   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   F   F   B   S   S   S   S   L   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   F   F   B   S   S   S   S   L   E   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   F   F   B   S   S   S   S   L   S   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   F   F   B   S   S   S   S   L   S   E   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   F   F   B   S   S   S   S   L   S   L   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   F   F   B   S   S   S   S   L   S   L   E   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   F   F   B   S   S   S   S   L   S   L   L   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   F   F   F   S   S   S   S   L   S   L   L   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   F   F   F   B   S   S   S   L   S   L   L   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   F   F   F   B   S   S   S   L   S   L   L   E   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   F   F   F   B   S   S   S   L   S   L   L   S   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   F   F   F   B   S   S   S   L   S   L   L   S   E   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   F   F   F   B   S   S   S   L   S   L   L   S   L   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   F   F   F   F   S   S   S   L   S   L   L   S   L   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   F   F   F   F   B   S   S   L   S   L   L   S   L   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   F   F   F   F   B   S   S   L   S   L   L   S   L   E   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   F   F   F   F   B   S   S   L   S   L   L   S   L   S   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   F   F   F   F   B   S   S   L   S   L   L   S   L   S   E   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   F   F   F   F   B   S   S   L   S   L   L   S   L   S   L   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   F   F   F   F   B   S   S   L   S   L   L   S   L   S   L   E   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   F   F   F   F   B   S   S   L   S   L   L   S   L   S   L   L   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   F   F   F   F   F   S   S   L   S   L   L   S   L   S   L   L   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   F   F   F   F   F   B   S   L   S   L   L   S   L   S   L   L   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   F   F   F   F   F   B   S   L   S   L   L   S   L   S   L   L   E   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   F   F   F   F   F   B   S   L   S   L   L   S   L   S   L   L   S   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   F   F   F   F   F   B   S   L   S   L   L   S   L   S   L   L   S   E   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   F   F   F   F   F   B   S   L   S   L   L   S   L   S   L   L   S   L   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   F   F   F   F   F   F   S   L   S   L   L   S   L   S   L   L   S   L   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   F   F   F   F   F   F   B   L   S   L   L   S   L   S   L   L   S   L   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   F   F   F   F   F   F   B   L   S   L   L   S   L   S   L   L   S   L   E   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   F   F   F   F   F   F   B   L   S   L   L   S   L   S   L   L   S   L   S   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   F   F   F   F   F   F   B   L   S   L   L   S   L   S   L   L   S   L   S   E   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   F   F   F   F   F   F   B   L   S   L   L   S   L   S   L   L   S   L   S   L   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   F   F   F   F   F   F   B   L   S   L   L   S   L   S   L   L   S   L   S   L   E   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   F   F   F   F   F   F   B   L   S   L   L   S   L   S   L   L   S   L   S   L   L   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   F   F   F   F   F   F   F   L   S   L   L   S   L   S   L   L   S   L   S   L   L   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   F   F   F   F   F   F   F   L   B   L   L   S   L   S   L   L   S   L   S   L   L   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   F   F   F   F   F   F   F   L   B   L   L   S   L   S   L   L   S   L   S   L   L   E   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   F   F   F   F   F   F   F   L   B   L   L   S   L   S   L   L   S   L   S   L   L   S   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   F   F   F   F   F   F   F   L   B   L   L   S   L   S   L   L   S   L   S   L   L   S   E   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   F   F   F   F   F   F   F   L   B   L   L   S   L   S   L   L   S   L   S   L   L   S   L   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   F   F   F   F   F   F   F   L   F   L   L   S   L   S   L   L   S   L   S   L   L   S   L   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   F   F   F   F   F   F   F   L   F   L   L   B   L   S   L   L   S   L   S   L   L   S   L   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   F   F   F   F   F   F   F   L   F   L   L   B   L   S   L   L   S   L   S   L   L   S   L   E   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   F   F   F   F   F   F   F   L   F   L   L   B   L   S   L   L   S   L   S   L   L   S   L   S   I   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   F   F   F   F   F   F   F   L   F   L   L   B   L   S   L   L   S   L   S   L   L   S   L   S   E   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   F   F   F   F   F   F   F   L   F   L   L   B   L   S   L   L   S   L   S   L   L   S   L   S   L   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   F   F   F   F   F   F   F   L   F   L   L   F   L   S   L   L   S   L   S   L   L   S   L   S   L   I   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   F   F   F   F   F   F   F   L   F   L   L   F   L   S   L   L   S   L   S   L   L   S   L   S   L   E   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   F   F   F   F   F   F   F   L   F   L   L   F   L   S   L   L   S   L   S   L   L   S   L   S   L   L   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   F   F   F   F   F   F   F   L   F   L   L   F   L   B   L   L   S   L   S   L   L   S   L   S   L   L   I   I   I   I   I   I   I   I   I   I   I   I   
+F   F   F   F   F   F   F   F   F   L   F   L   L   F   L   B   L   L   S   L   S   L   L   S   L   S   L   L   E   I   I   I   I   I   I   I   I   I   I   I   
+F   F   F   F   F   F   F   F   F   L   F   L   L   F   L   B   L   L   S   L   S   L   L   S   L   S   L   L   S   I   I   I   I   I   I   I   I   I   I   I   
+F   F   F   F   F   F   F   F   F   L   F   L   L   F   L   B   L   L   S   L   S   L   L   S   L   S   L   L   S   E   I   I   I   I   I   I   I   I   I   I   
+F   F   F   F   F   F   F   F   F   L   F   L   L   F   L   B   L   L   S   L   S   L   L   S   L   S   L   L   S   L   I   I   I   I   I   I   I   I   I   I   
+F   F   F   F   F   F   F   F   F   L   F   L   L   F   L   F   L   L   S   L   S   L   L   S   L   S   L   L   S   L   I   I   I   I   I   I   I   I   I   I   
+F   F   F   F   F   F   F   F   F   L   F   L   L   F   L   F   L   L   B   L   S   L   L   S   L   S   L   L   S   L   I   I   I   I   I   I   I   I   I   I   
+F   F   F   F   F   F   F   F   F   L   F   L   L   F   L   F   L   L   B   L   S   L   L   S   L   S   L   L   S   L   E   I   I   I   I   I   I   I   I   I   
+F   F   F   F   F   F   F   F   F   L   F   L   L   F   L   F   L   L   B   L   S   L   L   S   L   S   L   L   S   L   S   I   I   I   I   I   I   I   I   I   
+F   F   F   F   F   F   F   F   F   L   F   L   L   F   L   F   L   L   B   L   S   L   L   S   L   S   L   L   S   L   S   E   I   I   I   I   I   I   I   I   
+F   F   F   F   F   F   F   F   F   L   F   L   L   F   L   F   L   L   B   L   S   L   L   S   L   S   L   L   S   L   S   L   I   I   I   I   I   I   I   I   
+F   F   F   F   F   F   F   F   F   L   F   L   L   F   L   F   L   L   F   L   S   L   L   S   L   S   L   L   S   L   S   L   I   I   I   I   I   I   I   I   
+F   F   F   F   F   F   F   F   F   L   F   L   L   F   L   F   L   L   F   L   S   L   L   S   L   S   L   L   S   L   S   L   E   I   I   I   I   I   I   I   
+F   F   F   F   F   F   F   F   F   L   F   L   L   F   L   F   L   L   F   L   S   L   L   S   L   S   L   L   S   L   S   L   L   I   I   I   I   I   I   I   
+F   F   F   F   F   F   F   F   F   L   F   L   L   F   L   F   L   L   F   L   B   L   L   S   L   S   L   L   S   L   S   L   L   I   I   I   I   I   I   I   
+F   F   F   F   F   F   F   F   F   L   F   L   L   F   L   F   L   L   F   L   B   L   L   S   L   S   L   L   S   L   S   L   L   E   I   I   I   I   I   I   
+F   F   F   F   F   F   F   F   F   L   F   L   L   F   L   F   L   L   F   L   B   L   L   S   L   S   L   L   S   L   S   L   L   S   I   I   I   I   I   I   
+F   F   F   F   F   F   F   F   F   L   F   L   L   F   L   F   L   L   F   L   B   L   L   S   L   S   L   L   S   L   S   L   L   S   E   I   I   I   I   I   
+F   F   F   F   F   F   F   F   F   L   F   L   L   F   L   F   L   L   F   L   B   L   L   S   L   S   L   L   S   L   S   L   L   S   L   I   I   I   I   I   
+F   F   F   F   F   F   F   F   F   L   F   L   L   F   L   F   L   L   F   L   F   L   L   S   L   S   L   L   S   L   S   L   L   S   L   I   I   I   I   I   
+F   F   F   F   F   F   F   F   F   L   F   L   L   F   L   F   L   L   F   L   F   L   L   B   L   S   L   L   S   L   S   L   L   S   L   I   I   I   I   I   
+F   F   F   F   F   F   F   F   F   L   F   L   L   F   L   F   L   L   F   L   F   L   L   B   L   S   L   L   S   L   S   L   L   S   L   E   I   I   I   I   
+F   F   F   F   F   F   F   F   F   L   F   L   L   F   L   F   L   L   F   L   F   L   L   B   L   S   L   L   S   L   S   L   L   S   L   S   I   I   I   I   
+F   F   F   F   F   F   F   F   F   L   F   L   L   F   L   F   L   L   F   L   F   L   L   B   L   S   L   L   S   L   S   L   L   S   L   S   E   I   I   I   
+F   F   F   F   F   F   F   F   F   L   F   L   L   F   L   F   L   L   F   L   F   L   L   B   L   S   L   L   S   L   S   L   L   S   L   S   L   I   I   I   
+F   F   F   F   F   F   F   F   F   L   F   L   L   F   L   F   L   L   F   L   F   L   L   B   L   S   L   L   S   L   S   L   L   S   L   S   L   E   I   I   
+F   F   F   F   F   F   F   F   F   L   F   L   L   F   L   F   L   L   F   L   F   L   L   B   L   S   L   L   S   L   S   L   L   S   L   S   L   L   I   I   
+F   F   F   F   F   F   F   F   F   L   F   L   L   F   L   F   L   L   F   L   F   L   L   F   L   S   L   L   S   L   S   L   L   S   L   S   L   L   I   I   
+F   F   F   F   F   F   F   F   F   L   F   L   L   F   L   F   L   L   F   L   F   L   L   F   L   B   L   L   S   L   S   L   L   S   L   S   L   L   I   I   
+F   F   F   F   F   F   F   F   F   L   F   L   L   F   L   F   L   L   F   L   F   L   L   F   L   B   L   L   S   L   S   L   L   S   L   S   L   L   E   I   
+F   F   F   F   F   F   F   F   F   L   F   L   L   F   L   F   L   L   F   L   F   L   L   F   L   B   L   L   S   L   S   L   L   S   L   S   L   L   S   I   
+F   F   F   F   F   F   F   F   F   L   F   L   L   F   L   F   L   L   F   L   F   L   L   F   L   B   L   L   S   L   S   L   L   S   L   S   L   L   S   E   
+F   F   F   F   F   F   F   F   F   L   F   L   L   F   L   F   L   L   F   L   F   L   L   F   L   B   L   L   S   L   S   L   L   S   L   S   L   L   S   L   
+F   F   F   F   F   F   F   F   F   L   F   L   L   F   L   F   L   L   F   L   F   L   L   F   L   F   L   L   S   L   S   L   L   S   L   S   L   L   S   L   
+F   F   F   F   F   F   F   F   F   L   F   L   L   F   L   F   L   L   F   L   F   L   L   F   L   F   L   L   B   L   S   L   L   S   L   S   L   L   S   L   
+F   F   F   F   F   F   F   F   F   L   F   L   L   F   L   F   L   L   F   L   F   L   L   F   L   F   L   L   F   L   S   L   L   S   L   S   L   L   S   L   
+F   F   F   F   F   F   F   F   F   L   F   L   L   F   L   F   L   L   F   L   F   L   L   F   L   F   L   L   F   L   B   L   L   S   L   S   L   L   S   L   
+F   F   F   F   F   F   F   F   F   L   F   L   L   F   L   F   L   L   F   L   F   L   L   F   L   F   L   L   F   L   F   L   L   S   L   S   L   L   S   L   
+F   F   F   F   F   F   F   F   F   L   F   L   L   F   L   F   L   L   F   L   F   L   L   F   L   F   L   L   F   L   F   L   L   B   L   S   L   L   S   L   
+F   F   F   F   F   F   F   F   F   L   F   L   L   F   L   F   L   L   F   L   F   L   L   F   L   F   L   L   F   L   F   L   L   F   L   S   L   L   S   L   
+F   F   F   F   F   F   F   F   F   L   F   L   L   F   L   F   L   L   F   L   F   L   L   F   L   F   L   L   F   L   F   L   L   F   L   B   L   L   S   L   
+F   F   F   F   F   F   F   F   F   L   F   L   L   F   L   F   L   L   F   L   F   L   L   F   L   F   L   L   F   L   F   L   L   F   L   F   L   L   S   L   
+F   F   F   F   F   F   F   F   F   L   F   L   L   F   L   F   L   L   F   L   F   L   L   F   L   F   L   L   F   L   F   L   L   F   L   F   L   L   B   L   
+F   F   F   F   F   F   F   F   F   L   F   L   L   F   L   F   L   L   F   L   F   L   L   F   L   F   L   L   F   L   F   L   L   F   L   F   L   L   F   L   
+
+*****  A 'wait' instruction was executed and no more interrupts are scheduled... halting emulation!  *****
+
+Done!  The next instruction to execute will be:
+000EC8: 09000000       ret     
+Number of Disk Reads    = 0
+Number of Disk Writes   = 0
+Instructions Executed   = 10069345
+Time Spent Sleeping     = 0
+    Total Elapsed Time  = 10069345
+]0;/cygdrive/d/Education/TRM 992/OS/Project/p3
+[32masus@DESKTOP-CL0DLB1 [33m/cygdrive/d/Education/TRM 992/OS/Project/p3[0m
+$ exit
+exit
+
+Script done on 2021-04-25 22:11:45+04:30 [COMMAND_EXIT_CODE="0"]
